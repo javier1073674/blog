@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog de javier</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <h1>Como potenciar una tienda</h1>
+
+   <div id="texto">
+
+    
+        
+     <p id="intro">En este blog se presenta no una solución a un problema si no mejorar y hacer mas productivo y de igual forma facilitar el manejo de un pequeño negocio.</p>
+<div id="linea"></div>
+
+     <p>El termino tiendas de barrio es conocido por todos y por lo general son administradas por un vecino de la tercera edad que nos cae bien a todos, pero a que viene todo esto, el problema aquí es que no se esta explotando al cien porciento el negocio ya que podríamos llegar a un aumento de clientes bastante representativo, y aquí es donde entran las TIC usando varias estrategias y herramientas podemos llegar a este resultado.</p>
+       <h2 class="paso-1">paso 1</h2>
+     <p>En gran parte de estos pequeños negocios no se lleva un registro de inventario ni análisis de ingresos y egresos por esta parte podríamos apoyarnos en hojas de cálculo y un poco de equipo para poder leer mediante laser cada producto y así tener un registro exacto dando mucho más orden al negocio y facilite el calculo de ganancias e inversiones en ciertos productos también nos ayuda a saber si la venta de un producto es rentable o no, esto en lo que refiere a la organización del negocio.</p>
+       <h2>paso 2</h2>
+     <p>Muy bien ya tenemos un estudio constante del negocio entramos a la promoción, hoy en día las redes sociales son uno de los medios ideales para la promoción de muchos negocios ya que es muy fácil llegar a una cantidad  desorbitante de personas, entonces si empezamos a promocionar el negocio, también registrarla y en diferentes paginas le da visibilidad para que las personas sepan que tienen una tienda cerca, por ejemplo, yo en muchas ocasiones he necesitado algún producto y busco por Google pero son muy pocas las tiendas registradas en el buscador.</p>
+        <h2>paso 3</h2>
+     <p>Lo tratado anteriormente sin duda dará resultados, pero qué tal si damos el siguiente paso tener un domiciliario le da un plus a la tienda ya que hoy en día muchos no quieren dejar la comodidad de su casa y una tienda que te lleva todo hasta tu hogar hace la diferencia entre comprar en una y otra y no debes tener un gran sistema para los domicilios, por ejemplo, se puede utilizar WhatsApp para realizar los pedidos y comunicarse con el cliente a distancia.</p>
+    
+     <p>Finalmente, este pequeño negocio pasa a aumentar las ganancias ya que con un poco de esfuerzo y poco dinero paso de ser una tienda que solo conocían algunos del barrio a ser una tienda conocida y organizada.</p>
+    </div>
+</body>
+</html>
